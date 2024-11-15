@@ -1,5 +1,5 @@
 # Breaking Bad
-# <img src="https://walter-r2.trakt.tv/images/shows/000/001/388/posters/thumb/fa39b59954.jpg.webp" alt="Breaking Bad Logo" width="300" style="float:left; margin-right: 20px;">
+# <img src="https://walter-r2.trakt.tv/images/shows/000/001/388/posters/thumb/fa39b59954.jpg.webp" alt="Breaking Bad" title="Breaking Bad">
 **Breaking Bad** is an American television series created by Vince Gilligan. It originally aired on AMC from January 20, 2008, to September 29, 2013. The show is widely regarded as one of the greatest television series of all time, praised for its writing, performances, and intense storytelling.
 
 ## Plot Overview
